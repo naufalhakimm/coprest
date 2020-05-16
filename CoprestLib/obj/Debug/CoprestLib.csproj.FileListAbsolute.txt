@@ -1,0 +1,12 @@
+F:\VS\1\Coprest\CoprestLib\bin\Debug\CoprestLib.dll
+F:\VS\1\Coprest\CoprestLib\bin\Debug\CoprestLib.pdb
+F:\VS\1\Coprest\CoprestLib\obj\Debug\CoprestLib.csprojAssemblyReference.cache
+F:\VS\1\Coprest\CoprestLib\obj\Debug\CoprestLib.csproj.CoreCompileInputs.cache
+F:\VS\1\Coprest\CoprestLib\obj\Debug\CoprestLib.dll
+F:\VS\1\Coprest\CoprestLib\obj\Debug\CoprestLib.pdb
+F:\VS\8\Coprest\CoprestLib\bin\Debug\CoprestLib.dll
+F:\VS\8\Coprest\CoprestLib\bin\Debug\CoprestLib.pdb
+F:\VS\8\Coprest\CoprestLib\obj\Debug\CoprestLib.csprojAssemblyReference.cache
+F:\VS\8\Coprest\CoprestLib\obj\Debug\CoprestLib.csproj.CoreCompileInputs.cache
+F:\VS\8\Coprest\CoprestLib\obj\Debug\CoprestLib.dll
+F:\VS\8\Coprest\CoprestLib\obj\Debug\CoprestLib.pdb
